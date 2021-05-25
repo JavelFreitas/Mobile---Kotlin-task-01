@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button1">Button</string>
+    <string name="player_turn">Bem vindo ao Jogo da Velha</string>
+    <string name="p_one_name">P1: </string>
+    <string name="player_turn_now">P1</string>
+    <string name="player_turn_display">Vez:</string>
+    <string name="p_one_score">0</string>
+    <string name="player_two_name">P2: </string>
+    <string name="player_two_score">0</string>
+</resources>
