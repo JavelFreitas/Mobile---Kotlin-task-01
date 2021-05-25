@@ -11,12 +11,12 @@
 ## Application images
 
 ### Landing application image
-![Landing application image](\images\Landing_JogoDaVelha.jpg)
+![Landing application image](https://github.com/JavelFreitas/Mobile---Kotlin-task-01/blob/main/images/Landing_JogoDaVelha.jpg)
 ### Landing image night mode
-![Landing image night mode](images\Landing_Night_JogoDaVelha.jpg)
+![Landing image night mode](https://github.com/JavelFreitas/Mobile---Kotlin-task-01/blob/main/images/Landing_Night_JogoDaVelha.jpg)
 ### Portrait image
-![Portrait image](images\Portrait_JogoDaVelha.jpg)
+![Portrait image](https://github.com/JavelFreitas/Mobile---Kotlin-task-01/blob/main/images/Portrait_JogoDaVelha.jpg)
 ### Portrait image night mode
-![Portrait image night mode](images\Portrait_Night_JogoDaVelha.jpg)
+![Portrait image night mode](https://github.com/JavelFreitas/Mobile---Kotlin-task-01/blob/main/images/Portrait_Night_JogoDaVelha.jpg)
 ### Win screen
-![Win screen](images\Win_JogoDaVelha.jpg)
+![Win screen](https://github.com/JavelFreitas/Mobile---Kotlin-task-01/blob/main/images/Win_JogoDaVelha.jpg)
